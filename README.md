@@ -50,5 +50,4 @@ O Projeto foi desenvolvido utilizando o Framework .
 
 - Vue js
 
-- [Clique para acessar a pagina](https://welton1986.github.io/Projeto_ReinaPlanejados/)
 
